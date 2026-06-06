@@ -1,0 +1,401 @@
+{
+  "test_set_version": "1.0",
+  "generated_date": "2026-06-04",
+  "total_pairs": 42,
+  "pairs": [
+    {
+      "id": "eval_t_001",
+      "question": "去马来西亚出差需要带哪些证件？",
+      "ground_truth_answer": "需要携带：1. 有效期6个月以上的护照；2. 马来西亚签证（eVISA确认页）；3. 身份证；4. 公司出差派遣函；5. 邀请函复印件；6. 2寸白底证件照2张备用。建议将所有证件扫描保存在手机中。",
+      "domain": "travel_tips",
+      "sub_topic": "packing",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_002",
+      "question": "马来西亚用什么插头标准？",
+      "ground_truth_answer": "马来西亚使用英标三孔插座（品字形），电压220V。需要携带转换插头。",
+      "domain": "travel_tips",
+      "sub_topic": "packing",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_003",
+      "question": "在马来西亚出差期间安全方面要注意什么？",
+      "ground_truth_answer": "安全注意事项包括：紧急电话999，中国驻马使馆领事保护电话+60-3-21636853；避免深夜独自外出；护照原件存放酒店保险箱；使用Grab网约车而非路边出租车；注意登革热和烟霾防护。",
+      "domain": "travel_tips",
+      "sub_topic": "safety",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_004",
+      "question": "马来西亚有哪些文化禁忌需要注意？",
+      "ground_truth_answer": "主要禁忌包括：进入清真寺需脱鞋；握手、递物、进食必须使用右手；不要触摸他人头部；不要随意触碰宗教物品；与马来女性握手前先等对方伸手；马来人不吃猪肉不饮酒。",
+      "domain": "travel_tips",
+      "sub_topic": "culture_taboos",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_005",
+      "question": "吉隆坡机场怎么到市区？",
+      "ground_truth_answer": "最推荐KLIA Ekspres快线28分钟直达KL Sentral（55马币），性价比可选机场大巴约1小时（12马币），Grab网约车65-85马币约45-60分钟。注意确认航班在KLIA还是KLIA2。",
+      "domain": "travel_tips",
+      "sub_topic": "transport",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_006",
+      "question": "在马来西亚出差穿什么合适？",
+      "ground_truth_answer": "马来西亚属热带雨林气候（26-32℃）。商务场合男士建议长袖衬衫+西裤，女士职业套装；日常穿轻薄透气面料；需带薄外套（室内空调温度低）；准备折叠伞。",
+      "domain": "travel_tips",
+      "sub_topic": "packing",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_007",
+      "question": "马来西亚出差可以用什么打车软件？",
+      "ground_truth_answer": "最推荐使用Grab打车（马来西亚版滴滴），支持现金和信用卡，价格透明。避免路边拦出租车。如需乘坐出租车，要求打表或提前谈好价格。",
+      "domain": "travel_tips",
+      "sub_topic": "transport",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_008",
+      "question": "去马来西亚出差需要带什么药品？",
+      "ground_truth_answer": "建议携带：感冒药、肠胃药（水土不服常见）、止泻药、退烧药、含DEET成分的驱蚊液（登革热风险）、防晒霜SPF50+。如有处方药需携带医生处方（英文版）。",
+      "domain": "travel_tips",
+      "sub_topic": "packing",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_009",
+      "question": "马来西亚出差期间有哪些商务礼仪？",
+      "ground_truth_answer": "马来人男性称Encik+名，女性称Puan/Cik+名；名片用双手递接并仔细阅读；与马来女性握手前先等对方伸手；会议守时但对方可能迟到15-30分钟；商务宴请务必选清真认证餐厅。",
+      "domain": "travel_tips",
+      "sub_topic": "culture_taboos",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_010",
+      "question": "马来西亚出差要避开什么时间段？",
+      "ground_truth_answer": "建议避开开斋节前后一周（交通拥堵，很多人休长假）；雨季11月-3月东海岸可能有洪水；6-9月印尼烧芭可能导致烟霾。出差前查看当地节日日历。",
+      "domain": "travel_tips",
+      "sub_topic": "culture_taboos",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_011",
+      "question": "马来西亚出差现金带多少合适？",
+      "ground_truth_answer": "建议携带500-1000马币现金用于小额支付。货币为马来西亚林吉特（MYR），1 MYR ≈ 1.55 CNY。国内中国银行可预约兑换。Visa/Mastercard通用，大商场银联可用。",
+      "domain": "travel_tips",
+      "sub_topic": "packing",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_t_012",
+      "question": "在马来西亚遇到紧急情况怎么办？",
+      "ground_truth_answer": "拨打999（警察/救护车），中国驻马来西亚使馆领事保护电话：+60-3-21636853。如遇抢劫不要反抗，事后立即报警并联系使馆。护照原件存放酒店保险箱，随身携带复印件。",
+      "domain": "travel_tips",
+      "sub_topic": "safety",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_001",
+      "question": "办理马来西亚商务签证需要哪些材料？",
+      "ground_truth_answer": "办理马来西亚商务签证需要的材料包括：一、个人材料（护照有效期6个月以上、2张2寸白底照片、身份证复印件、户口本复印件、签证申请表）；二、公司材料（在职证明、营业执照副本、出差派遣函）；三、邀请方材料（马来西亚公司邀请函、公司注册证明SSM）；四、财务证明（近6个月银行流水余额建议3万以上）；五、行程材料（往返机票预订单、酒店预订单、行程安排表）。",
+      "domain": "malaysia_visa",
+      "sub_topic": "materials",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_002",
+      "question": "马来西亚商务签证多久能办好？",
+      "ground_truth_answer": "常规办理周期10-20个工作日，建议提前1个月开始准备。具体环节：材料准备5-10个工作日，系统审核3-7个工作日，护照贴签1-3个工作日。加急办理最快2-3个工作日，额外费用约200-300人民币。",
+      "domain": "malaysia_visa",
+      "sub_topic": "timeline",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_003",
+      "question": "马来西亚商务签证办理流程是怎样的？",
+      "ground_truth_answer": "流程分为六步：第一步准备材料（建议提前3-4周）；第二步在马来西亚移民局eVISA系统在线填写申请表并上传材料；第三步审核通过后到签证中心递交护照原件；第四步生物信息采集（录入指纹）；第五步等待审核（可在线查询进度）；第六步领取护照。",
+      "domain": "malaysia_visa",
+      "sub_topic": "process",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_004",
+      "question": "马来西亚商务签证照片有什么要求？",
+      "ground_truth_answer": "需要2张2寸白底彩色证件照（35mm×50mm），近6个月内拍摄，不戴眼镜、不露齿，头部占照片70%-80%。",
+      "domain": "malaysia_visa",
+      "sub_topic": "materials",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_005",
+      "question": "马来西亚商务签证拒签的常见原因有哪些？",
+      "ground_truth_answer": "拒签常见原因：1. 材料不全（缺少邀请函、在职证明等关键材料）；2. 信息不一致（申请表与护照不符或与邀请函内容矛盾）；3. 资金不足（银行流水余额过低）；4. 访问目的不明（行程安排过于模糊）；5. 有不良出入境记录；6. 照片不合规格。",
+      "domain": "malaysia_visa",
+      "sub_topic": "faq",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_006",
+      "question": "马来西亚商务签证有效期多久？",
+      "ground_truth_answer": "单次入境签证有效期3个月，每次停留最多30天。多次入境签证有效期3-12个月，每次停留30天。一年多次签证有效期12个月，每次停留30天。首次申请通常只给单次入境，有良好出入境记录后可申请多次。",
+      "domain": "malaysia_visa",
+      "sub_topic": "timeline",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_007",
+      "question": "马来西亚签证的eVISA和贴纸签有什么区别？",
+      "ground_truth_answer": "eVISA全程在线申请，打印确认函+护照即可出入境，办理周期3-7个工作日，需从指定口岸入境；贴纸签需递交护照到使馆贴签证贴纸，办理周期5-10个工作日，所有口岸通用。目前中国公民主要走eVISA通道。",
+      "domain": "malaysia_visa",
+      "sub_topic": "faq",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_008",
+      "question": "被马来西亚拒签后多久可以重新申请？",
+      "ground_truth_answer": "无强制等待期，但建议至少间隔2周。再次申请前需分析拒签原因并补充或更正材料。第二次申请时建议附解释信说明上次拒签原因的改进。",
+      "domain": "malaysia_visa",
+      "sub_topic": "faq",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_009",
+      "question": "马来西亚商务签证可以延期吗？",
+      "ground_truth_answer": "商务签证不可在马来西亚境内延期。如需延长停留，必须在签证到期前出境重新申请。逾期停留将被列入黑名单和罚款（每日罚款约100马币）。",
+      "domain": "malaysia_visa",
+      "sub_topic": "faq",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_v_010",
+      "question": "持有马来西亚商务签证可以在当地工作吗？",
+      "ground_truth_answer": "不可以。商务签证仅限商务活动（会议、洽谈、考察、签订合同等），不能在马来西亚公司领取薪资、从事生产施工等劳务活动、停留超过签证有效期。实际工作需申请工作许可证（Employment Pass）。",
+      "domain": "malaysia_visa",
+      "sub_topic": "faq",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_001",
+      "question": "政府项目申报需要注意哪些时间节点？",
+      "ground_truth_answer": "申报全流程时间线：通知发布后材料准备2-4周，网上填报1-2周，形式审查1-2周，专家评审3-6周，公示1周，签订合同并拨付资金1-2周。关键提醒：网上填报建议提前3天完成避免系统拥堵，纸质材料提前一周寄出。",
+      "domain": "project_applications",
+      "sub_topic": "submission",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_002",
+      "question": "项目申报书怎么写？",
+      "ground_truth_answer": "项目申报书需按政府统一模板填写，包含：项目基本信息、项目背景（立项依据和必要性）、项目目标（量化和可考核）、项目内容（技术路线和实施方案）、预期成果和经济社会效益。项目名称建议用'技术方向+应用场景+项目类型'格式，避免过于模糊。",
+      "domain": "project_applications",
+      "sub_topic": "government_docs",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_003",
+      "question": "政务网申报系统填报有什么注意事项？",
+      "ground_truth_answer": "注意：1. 使用Chrome或Edge浏览器（不用360兼容模式）；2. 每10分钟保存一次草稿（系统30分钟自动退出）；3. 数据单位区分'万元'与'元'；4. 展开所有折叠区域检查必填项；5. 附件单个文件≤10MB，总大小≤100MB；6. 附件命名格式'序号_材料名称_企业名称.pdf'。",
+      "domain": "project_applications",
+      "sub_topic": "form_fields",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_004",
+      "question": "项目申报预算编制有哪些常见错误？",
+      "ground_truth_answer": "常见错误：设备费占比过高（超过50%需特别论证）；劳务费发给没有在项目任务书体现的人员；差旅费/会议费/国际合作交流费三项合计超过直接费用10%；间接费用计算错误；自筹资金来源未明确。各科目比例需符合申报指南规定范围。",
+      "domain": "project_applications",
+      "sub_topic": "form_fields",
+      "difficulty": "hard",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_005",
+      "question": "项目申报需要哪些基本资质？",
+      "ground_truth_answer": "需满足：在中华人民共和国境内注册的独立法人；正常经营无重大违法违规记录；与项目相关的知识产权归属清晰；具备相应的研发团队和设施条件；企业信用良好无严重失信记录。具体资质要求以申报通知为准。",
+      "domain": "project_applications",
+      "sub_topic": "government_docs",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_006",
+      "question": "项目申报材料被退回的常见原因是什么？",
+      "ground_truth_answer": "退回常见原因：材料不全（漏盖章、数据不一致、证件过期）；格式不符（非A4双面印刷、未胶装）；超过补充材料时限；补充材料仍不合格；一个数据改了但没检查关联表格。建议建立checklist逐项核对，至少两人交叉审核。",
+      "domain": "project_applications",
+      "sub_topic": "common_mistakes",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_007",
+      "question": "项目申报需要准备哪些财务材料？",
+      "ground_truth_answer": "财务材料包括：近2-3年审计报告或财务报表、项目预算表（按经费科目细分）、自筹资金证明（银行存款证明或董事会出资决议）。注意财务报表数据需与税务申报一致（审计报告+纳税申报表+财务报表三表一致）。",
+      "domain": "project_applications",
+      "sub_topic": "government_docs",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_008",
+      "question": "申报系统里项目名称怎么起名？",
+      "ground_truth_answer": "规范命名公式：技术方向+应用场景+项目类型。反面例子'新技术研究'（太模糊），正面例子'基于深度学习的工业缺陷检测系统研发与应用'。项目名称需体现技术含量和应用价值。",
+      "domain": "project_applications",
+      "sub_topic": "form_fields",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_009",
+      "question": "项目申报纸质材料有什么格式要求？",
+      "ground_truth_answer": "纸质材料要求A4纸双面打印，左侧胶装（不使用订书钉），封面使用政府统一模板或按规定自制，需盖企业公章+法人章（部分页面需骑缝章），通常需提交纸质版3-5份+电子版1份。电子版为PDF扫描件（带公章），命名格式'企业名称+项目名称'。",
+      "domain": "project_applications",
+      "sub_topic": "government_docs",
+      "difficulty": "easy",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_a_010",
+      "question": "项目申报答辩需要注意什么？",
+      "ground_truth_answer": "如果项目进入答辩环节：准备15分钟PPT汇报+15分钟专家提问。汇报需涵盖技术先进性、团队能力、市场前景、经济社会效益。PPT重点突出创新点和量化指标。提前准备常见问题的回答。",
+      "domain": "project_applications",
+      "sub_topic": "submission",
+      "difficulty": "medium",
+      "type": "single_domain"
+    },
+    {
+      "id": "eval_amb_001",
+      "question": "需要准备什么材料？",
+      "ground_truth_answer": null,
+      "domain": "ambiguous",
+      "difficulty": "ambiguous",
+      "type": "multi_domain",
+      "expected_clarification": true,
+      "expected_domains": [
+        "travel_tips",
+        "malaysia_visa",
+        "project_applications"
+      ]
+    },
+    {
+      "id": "eval_amb_002",
+      "question": "办理需要多长时间？",
+      "ground_truth_answer": null,
+      "domain": "ambiguous",
+      "difficulty": "ambiguous",
+      "type": "multi_domain",
+      "expected_clarification": true,
+      "expected_domains": [
+        "malaysia_visa",
+        "project_applications"
+      ]
+    },
+    {
+      "id": "eval_amb_003",
+      "question": "有什么注意事项？",
+      "ground_truth_answer": null,
+      "domain": "ambiguous",
+      "difficulty": "ambiguous",
+      "type": "multi_domain",
+      "expected_clarification": true,
+      "expected_domains": [
+        "travel_tips",
+        "project_applications"
+      ]
+    },
+    {
+      "id": "eval_amb_004",
+      "question": "需要多少钱？",
+      "ground_truth_answer": null,
+      "domain": "ambiguous",
+      "difficulty": "ambiguous",
+      "type": "multi_domain",
+      "expected_clarification": true,
+      "expected_domains": [
+        "malaysia_visa",
+        "travel_tips"
+      ]
+    },
+    {
+      "id": "eval_amb_005",
+      "question": "要带照片吗？",
+      "ground_truth_answer": null,
+      "domain": "ambiguous",
+      "difficulty": "ambiguous",
+      "type": "multi_domain",
+      "expected_clarification": true,
+      "expected_domains": [
+        "travel_tips",
+        "malaysia_visa"
+      ]
+    },
+    {
+      "id": "eval_edge_001",
+      "question": "去美国怎么办理签证？",
+      "ground_truth_answer": "目前知识库中暂无美国签证相关信息。知识库仅覆盖马来西亚商务签证办理。",
+      "domain": "edge_case",
+      "difficulty": "edge",
+      "type": "out_of_domain"
+    },
+    {
+      "id": "eval_edge_002",
+      "question": "今天天气怎么样？",
+      "ground_truth_answer": "目前知识库中暂无天气相关信息。我是内部FAQ助手，主要回答出差注意事项、签证办理和项目申报方面的问题。",
+      "domain": "edge_case",
+      "difficulty": "edge",
+      "type": "out_of_domain"
+    },
+    {
+      "id": "eval_edge_003",
+      "question": "123456",
+      "ground_truth_answer": "目前知识库中暂无相关信息。请用自然语言描述您的问题。",
+      "domain": "edge_case",
+      "difficulty": "edge",
+      "type": "nonsense"
+    },
+    {
+      "id": "eval_edge_004",
+      "question": "",
+      "ground_truth_answer": null,
+      "domain": "edge_case",
+      "difficulty": "edge",
+      "type": "empty"
+    },
+    {
+      "id": "eval_edge_005",
+      "question": "后天周四系统维护是几点到几点？",
+      "ground_truth_answer": "目前知识库中暂无系统维护时间相关信息。建议联系IT部门确认。",
+      "domain": "edge_case",
+      "difficulty": "edge",
+      "type": "out_of_domain"
+    }
+  ]
+}
