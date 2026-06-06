@@ -127,7 +127,7 @@ pip install -r requirements.txt
 
 ### 配置
 
-将 `.env.example` 的内容复制到用户目录下新建的 `.ai_bot_env` 文件，填入真实配置：
+将 '.env.example'的内容复制到用户目录下新建的 `.ai_bot_env` 文件，填入真实配置：
 
 ```
 Linux/Mac:  ~/.ai_bot_env
